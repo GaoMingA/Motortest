@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Motortest</string>
+
+    <string name="vibrator_app">震动精品化调试</string>
+    <string name="typechoose">"类型选择: "</string>
+    <string name="voltagechoose">"电压选择: "</string>
+    <string name="vibratormode">"震动模式: "</string>
+    <string name="single_text">单值</string>
+    <string name="multi_text">数组</string>
+    <string name="loop_txt">循环播放</string>
+    <string name="play_txt">震动验证</string>
+    <string name="stop_txt">停止</string>
+    <string name="useto_txt">应用到手机</string>
+    <string name="save_txt">导出数据</string>
+    <string name="audiofocus_request_failed_message">音频焦点获取失败！</string>
+    <string name="playback_failed">播放异常终止！</string>
+
+    <string-array name="spinnername">
+        <item>来电接听瞬间震动</item>
+        <item>AA区Touch</item>
+        <item>ICON触摸</item>
+        <item>收到短信</item>
+        <item>Calling震感</item>
+    </string-array>
+    <string-array name="voltagedata">
+        <item>2.0V</item>
+        <item>2.8V</item>
+        <item>3.0V</item>
+        <item>3.3V</item>
+    </string-array>
+
+    <integer-array name="voltagevalue">
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </integer-array>
+
+    <string name="vibrator_time">震动</string>
+    <string name="vibmute_time">停止</string>
+    <string name="vib_time_set">"震动时间设置(ms): "</string>
+</resources>
