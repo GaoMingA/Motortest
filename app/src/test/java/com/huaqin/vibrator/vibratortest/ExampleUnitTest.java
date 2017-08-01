@@ -1,4 +1,4 @@
-package com.gaoming.vibrator.motortest;
+package com.huaqin.vibrator.vibratortest;
 
 import org.junit.Test;
 

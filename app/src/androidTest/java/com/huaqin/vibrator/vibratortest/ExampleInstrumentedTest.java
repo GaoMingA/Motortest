@@ -1,4 +1,4 @@
-package com.gaoming.vibrator.motortest;
+package com.huaqin.vibrator.vibratortest;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.gaoming.vibrator.motortest", appContext.getPackageName());
+        assertEquals("com.huaqin.vibrator.vibratortest", appContext.getPackageName());
     }
 }
